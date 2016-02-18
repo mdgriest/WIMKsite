@@ -15,6 +15,10 @@ a {
   a:hover {
     text-decoration: underline; }
 
+.pdf{
+    height : 1100px;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
